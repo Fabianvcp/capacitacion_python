@@ -6,6 +6,5 @@ nombre_variable = 45
 flotante = 3.14
 
 booleano = False
-
 entero = 'Chau'
 
